@@ -2,7 +2,9 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 const currentDay = $('#currentDay');
-
+const past = $('.past');
+const present = $('.present');
+const future = $('.future');
 
 $(function () {
 

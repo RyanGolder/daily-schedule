@@ -9,12 +9,12 @@ See below for HitHub pages link and URL of the webpage:
 - https://github.com/RyanGolder/daily-schedule
 - https://ryangolder.github.io/daily-schedule/
 
-![coding-quiz](https://user-images.githubusercontent.com/121011030/223679993-d4064fe6-d31d-4f1f-b504-e462f716c004.png)
+![daily-schedule](https://user-images.githubusercontent.com/121011030/224524193-57c5f268-fac0-4a32-93e9-6da3524b41c5.png)
 
 ## Usage
 
-This webpage is used for aspiring software engineers to build their knowledge, experience software engineers to flex their knowledge, and those not interested in software engineering to see whether it's
-easy or not to answer coding related questions. 
+This webpage is used to plan out your day. It's presented hour by hour and each hour is formatted
+to show which hour you are currently in (red), which hours have passed (grey) and the hours in the future (green). Hit the save button to store what you have on for the day.
 
 ## License
 
